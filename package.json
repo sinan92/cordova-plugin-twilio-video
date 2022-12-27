@@ -3,6 +3,11 @@
     "name": "cordova-plugin-twilio-video",
     "cordova_name": "Twilio video plugin",
     "license": "MIT",
+      "files": [
+        "index.js",
+        "lib/*.js",
+        "types/index.d.ts"
+      ],
     "platforms": [
         "android",
         "ios"
